@@ -1,7 +1,11 @@
 compareVars :=
   {
-    "botCyc.TExh",
-    "botCyc.TAmb",
-    "botCyc.mExh_flow",
-    "botCyc.PEle_ST"
+    "botCyc.steBoi.mWat_flow",
+    "-botCyc.steBoi.mSte_flow",
+    "water.y[1]",
+    "steam.y[1]",
+    "botCyc.PEle_ST",
+    "steElec.y[1]",
+    "CPUtime",
+    "CPUtime.y[1]"
   };
